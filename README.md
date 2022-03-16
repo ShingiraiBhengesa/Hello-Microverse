@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> Description the project.
+> This a set up project, it  contains a header styled with css.
 
 
 ## Built With
@@ -10,6 +10,21 @@
 - Html
 - CSS
 
+## Getting Started
+
+- To get get started get a local copy up and running follow these simple example steps
+
+### Prerequesites
+
+Git installed
+Stylelint
+
+### Set Up
+
+- open a terminal  https://github.com/ShingiraiBhengesa/Hello-Microverse
+- run git clone 
+- run cd Hello-Microverse/views
+- open index.html
 
 ## Author
 
