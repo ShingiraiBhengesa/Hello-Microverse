@@ -1,7 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 body {
-font-family: sans-serif;
-  } 
-  h1 {
-font-weight: bold;
-color: maroon;
-  }
+  background: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  padding: 10%;
+  font-size: xx-large;
+  color: blue;
+}
