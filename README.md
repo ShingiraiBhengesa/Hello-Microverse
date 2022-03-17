@@ -1,56 +1,40 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+> This a set up project, it  contains a header styled with css.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Html
+- CSS
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- To get get started get a local copy up and running follow these simple example steps
+
+### Prerequesites
+
+Git installed
+Stylelint
+
+### Set Up
+
+- open a terminal  https://github.com/ShingiraiBhengesa/Hello-Microverse
+- run git clone 
+- run cd Hello-Microverse/views
+- open index.html
+
+## Author
+
+👤 Shingirai Bhengesa
+
+- GitHub: [@ShingiraiBhengesa](https://github.com/ShingiraiBhengesa)
+- Twitter: [@bhengesa](https://twitter.com/bhengesa)
+- LinkedIn: [Shingirai Bhengesa](https://www.linkedin.com/in/shingirai-bhengesa-612b09206/)
 
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -62,11 +46,7 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
